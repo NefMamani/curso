@@ -1,0 +1,2 @@
+clonar el repositorio del git
+git clone https://github.com/NefMamani/curso.git
